@@ -41,8 +41,7 @@ The serial verilog code was adapted from [Jean P Nicolle at fpga4fun]
 - Plug GPIO 124 on the de0-nano into GPIO 23 on the Raspberry Pi
 
 To load the de0nano, can either import the verilog and tcl files into your own
-quartus project, or use my [pyquartus tool](https://github
-.com/CatherineH/python-quartus). To compile and upload using pyquartus, plug
+quartus project, or use my [pyquartus tool](https://github.com/CatherineH/python-quartus). To compile and upload using pyquartus, plug
  your de0-nano into your computer, and run:
 
 ```
