@@ -7,8 +7,7 @@ Sample code for communicating between a raspberry pi and de0 nano at high speed 
 - Plug GPIO05 on the de0-nano into GPIO 14 on the Raspberry Pi.
 
 To load the de0nano, can either import the verilog and tcl files into your own
-quartus project, or use my [pyquartus tool](https://github
-.com/CatherineH/python-quartus). To compile and upload using pyquartus, plug
+quartus project, or use my [pyquartus tool](https://github.com/CatherineH/python-quartus). To compile and upload using pyquartus, plug
  your de0-nano into your computer, and run:
 
 ```
